@@ -6,11 +6,6 @@
 
 I build practical products that bring together full-stack engineering, AI-powered workflows, and thoughtful developer experiences. I enjoy turning ambitious ideas into working software, from the first interface to the backend, database, and deployment.
 
-<p>
-  <a href="https://github.com/RitikPuranik"><img src="https://img.shields.io/badge/GitHub-RitikPuranik-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="mailto:ritik23puranik@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -30,8 +25,8 @@ I'm continuing to deepen my knowledge of AI engineering, system design, and full
 A quick snapshot of what I do, what I work with, and what I'm exploring.
 
 ```json
+//: ritikpuranik.json
 {
-  "//": "ritikpuranik.json",
   "name": "Ritik Puranik",
   "role": "Full-Stack Developer & CSE Student",
   "education": "B.Tech in Computer Science & Engineering",
