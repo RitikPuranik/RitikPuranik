@@ -25,7 +25,7 @@ I'm continuing to deepen my knowledge of AI engineering, system design, and full
 A quick snapshot of what I do, what I work with, and what I'm exploring.
 
 ```json
-//: ritikpuranik.json
+// ritikpuranik.json
 {
   "name": "Ritik Puranik",
   "role": "Full-Stack Developer & CSE Student",
