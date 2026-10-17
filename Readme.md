@@ -13,6 +13,14 @@ I build practical products that bring together full-stack engineering, AI-powere
 
 ---
 
+## 👨‍💻 About Me
+
+I'm Ritik Puranik, a Computer Science and Engineering student and full-stack developer who enjoys building useful, end-to-end software. I work across the stack, from crafting responsive interfaces with React and Next.js to building APIs, integrating databases, and deploying applications. I'm especially interested in the intersection of **AI-powered products, developer tools, and scalable web applications**.
+
+My projects reflect that curiosity. With **DevDrop**, I'm exploring AI-assisted website creation, reusable templates, and streamlined deployment workflows. With **Anndata**, I'm working on an agriculture-focused platform that brings together market intelligence and digital tools for farmers. I enjoy taking ideas beyond prototypes by thinking through backend architecture, data flows, reliability, and the experience of the people using the product.
+
+I'm continuing to deepen my knowledge of AI engineering, system design, and full-stack development, while looking for opportunities to collaborate, contribute to open source, and learn by shipping real projects.
+
 ## 👨‍💻 whoami
 
 A quick snapshot of what I do, what I work with, and what I'm exploring.
