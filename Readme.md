@@ -13,6 +13,10 @@ I build practical products that bring together full-stack engineering, AI-powere
 
 ---
 
+<p>
+  <img align="right" alt="Rick GIF" width="260" src="https://raw.githubusercontent.com/darshan-jain/darshan-jain/master/rick.gif">
+</p>
+
 ## 👨‍💻 About Me
 
 I'm Ritik Puranik, a Computer Science and Engineering student and full-stack developer who enjoys building useful, end-to-end software. I work across the stack, from crafting responsive interfaces with React and Next.js to building APIs, integrating databases, and deploying applications. I'm especially interested in the intersection of **AI-powered products, developer tools, and scalable web applications**.
